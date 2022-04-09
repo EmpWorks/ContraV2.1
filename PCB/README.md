@@ -1,5 +1,6 @@
 # ContraV2.1
 Originally created by ai03 
+
 Extremely low cost ortholinear keyboard
 ### Disclaimer
 This board is a modified contra pcb  by ai03 While the schematic, basic layout, pinout (of course) etc is essentially the same, it supports optional USB-C for easy connectivity.
