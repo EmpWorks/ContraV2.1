@@ -1,7 +1,8 @@
 # ContraV2.1
+Originally created by ai03 
 Extremely low cost ortholinear keyboard
 ### Disclaimer
-This board is a modified contra pcb While the schematic, basic layout, pinout (of course) etc is essentially the same, it supports optional USB-C for easy connectivity.
+This board is a modified contra pcb  by ai03 While the schematic, basic layout, pinout (of course) etc is essentially the same, it supports optional USB-C for easy connectivity.
 
 ### Features
 - 2U or split space.
@@ -25,5 +26,4 @@ This board is a modified contra pcb While the schematic, basic layout, pinout (o
 - 4x 6cm thin wire
 
 ### Files for production
-- Main PCB: Check the [latest releases](https://github.com/ai03-2725/Contra/releases), or grab the latest gerber [here](https://github.com/ai03-2725/Contra/blob/master/Gerbers/Gerbers.zip).
 - Case files: Check the case repo [here](https://github.com/ai03-2725/ContraPlates).
