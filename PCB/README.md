@@ -24,7 +24,7 @@ This board is a modified contra pcb  by ai03 While the schematic, basic layout, 
 #### Optional
 - TYPE-C-31-M-12 USB-C port 
 - Micro USB Male Port Connector
-- 4x 6cm thin wire
+- 4x  6cm thin wires
 
 ### Files for production
 - Case files: Check the case repo [here](https://github.com/ai03-2725/ContraPlates).
