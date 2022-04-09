@@ -19,7 +19,7 @@ This board is a modified contra pcb While the schematic, basic layout, pinout (o
 - One PCB, one plate, and one bottom plate
 - 5 M2 8mm standoffs
 - 10 M2 screws
-# Optional
+#### Optional
 - TYPE-C-31-M-12 USB-C port 
 - Micro USB Male Port Connector
 - 4x 6cm thin wire
